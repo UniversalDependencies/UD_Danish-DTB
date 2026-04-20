@@ -1,0 +1,1792 @@
+# sent_id = blc_gps-584
+# text = Yakk taǰǰārēat.
+# text_en = There was a certain merchant.
+1	Yakk	Yakk	DET	_	PronType=Art	2	det	_	_
+2	taǰǰārēat.	taǰǰār	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-188
+# text = Bass ša xudānizar kissaa kurt.
+# text_en = Immediately, he talked so much about Khudanizar.
+1	Bass	Bass	ADV	_	_	5	advmod	_	_
+2	ša	ša	ADP	_	ExtPos=ADP	3	case	_	_
+3	xudānizar	xudānizar	PROPN	_	Number=Sing	5	obl	_	_
+4	kissaa	kissa	NOUN	_	Number=Plur	5	obj	_	_
+5	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-542
+# text = Allāā bgu.
+# text_en = Tell God:.
+1	Allāā	Allā	PROPN	_	Number=Sing	2	obj	_	_
+2	bgu.	bgu	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-481
+# text = Yē taǰǰār dōlērā šēwag kurtant.
+# text_en = This merchant threw a bucket.
+1	Yē	Yē	DET	_	PronType=Dem	2	det	_	_
+2	taǰǰār	taǰǰār	NOUN	_	Number=Sing	4	nsubj	_	_
+3	dōlērā	dōlērā	NOUN	_	Number=Sing	4	obj	_	_
+4	šēwag	šēwag	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kurtant.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	_	_
+
+# sent_id = blc_gps-199
+# text = Amēšā mašmā nazānan.
+# text_en = We don’t know this.
+1	Amēšā	Amēš	PRON	_	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+2	mašmā	mašmā	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	nazānan.	zān	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-228
+# text = Patta mrōčī rabāba ǰanīn.
+# text_en = Today I will play the rebec for you.
+1	Patta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+2	mrōčī	mrōč	ADV	_	_	4	advmod	_	_
+3	rabāba	rabāb	NOUN	_	Number=Sing	4	obj	_	_
+4	ǰanīn.	ǰa	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Inf|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-262
+# text = Mnī dil āt.
+# text_en = My heart was going.
+1	Mnī	Mn	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+2	dil	dil	NOUN	_	Number=Sing	3	nsubj	_	_
+3	āt.	biá	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-212
+# text = Nūn ǰinikkō pēšān kissaa kant.
+# text_en = Now, the girl is telling them the story.
+1	Nūn	Nūn	ADV	_	_	5	advmod	_	_
+2	ǰinikkō	ǰinik	NOUN	_	Number=Sing	5	nsubj	_	_
+3	pēšān	ē	PRON	_	Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+4	kissaa	kissa	NOUN	_	Number=Sing	5	obj	_	_
+5	kant.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-89
+# text = Sabzōī talākānā gipt.
+# text_en = He (Khudanizar Khan) got Sabzo’s divorce.
+1	Sabzōī	Sabzō	PROPN	_	Number=Sing	2	nmod:poss	_	_
+2	talākānā	talāk	NOUN	_	Number=Plur	3	obj	_	_
+3	gipt.	gerag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-120
+# text = Aga pāč būtēnun mardēnzāgēatun.
+# text_en = If I were free, I would be a man.
+1	Aga	Aga	SCONJ	_	_	3	mark	_	_
+2	pāč	pāč	ADJ	_	_	3	xcomp	_	_
+3	būtēnun	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	mardēnzāgēatun.	mardēnzāg	NOUN	_	Number=Sing	3	xcomp	_	_
+
+# sent_id = blc_gps-429
+# text = Ki šmay baḍḍānā barīn.
+# text_en = To carry your loads and baggage .
+1	Ki	Ki	SCONJ	_	_	4	mark	_	_
+2	šmay	šmay	DET	_	PronType=Prs	3	det:poss	_	_
+3	baḍḍānā	baḍ	NOUN	_	Number=Plur	4	obj	_	_
+4	barīn.	bar	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-545
+# text = Ē amāēn mardumē.
+# text_en = This is that very man.
+1	Ē	Ē	PRON	_	Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	amāēn	amā	DET	_	PronType=Dem	3	det	_	_
+3	mardumē.	mardum	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-133
+# text = Šumā gōš kašši.
+# text_en = You listen!
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	gōš	gōš	NOUN	_	Number=Sing	3	obj	_	_
+3	kašši.	kaš	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-305
+# text = Brawan annūn pissay dunyāā.
+# text_en = Now let’s go for the father’s wealth.
+1	Brawan	Bra	VERB	_	Aspect=Imp|Mood=Imp|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	annūn	nūn	ADV	_	_	1	advmod	_	_
+3	pissay	pis	NOUN	_	Number=Sing	4	nmod:poss	_	_
+4	dunyāā.	dunyā	NOUN	_	Number=Sing	1	obl	_	_
+
+# sent_id = blc_gps-213
+# text = Šumā gōš kaššit.
+# text_en = You listen!
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	gōš	gōš	NOUN	_	Number=Sing	3	obj	_	_
+3	kaššit.	kaš	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-178
+# text = Ta yakk ǰāē čār napar ništagant.
+# text_en = That four people were sitting in a place.
+1	Ta	Ta	SCONJ	_	PronType=Dem	6	mark	_	_
+2	yakk	yakk	DET	_	PronType=Art	3	det	_	_
+3	ǰāē	ǰā	NOUN	_	Number=Sing	6	obl	_	_
+4	čār	čār	NUM	_	NumType=Card	5	nummod	_	_
+5	napar	napar	NOUN	_	Number=Plur	6	nsubj	_	_
+6	ništagant.	nendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-107
+# text = Yāra šatta ǰwānēn kayint.
+# text_en = Truly who is better than you?
+1	Yāra	Yār	NOUN	_	Number=Sing	0	root	_	_
+2	šatta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+3	ǰwānēn	ǰwān	ADJ	_	_	1	acl:relcl	_	_
+4	kayint.	kay	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+
+# sent_id = blc_gps-564
+# text = Watī baxtā wadī kurtay.
+# text_en = (when) you find your fortune.
+1	Watī	Watī	DET	_	PronType=Prs	2	det	_	_
+2	baxtā	baxt	NOUN	_	Number=Sing	3	obj	_	_
+3	wadī	wadī	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	kurtay.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
+
+# sent_id = blc_gps-420
+# text = Mana baxšāyīn.
+# text_en = I will forgive,.
+1	Mana	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	baxšāyīn.	baxš	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-503
+# text = Bādšāīyā ništ.
+# text_en = (and) sat down on the throne.
+1	Bādšāīyā	Bādšā	NOUN	_	Number=Sing	2	nsubj	_	_
+2	ništ.	nendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-452
+# text = Man gu.
+# text_en = I said:.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	gu.	gusag	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-552
+# text = Ē arāum dātaun.
+# text_en = I have also given (them) to this donkey.
+1	Ē	Ē	DET	_	PronType=Dem	2	det	_	_
+2	arāum	arā	NOUN	_	Number=Sing	3	obj	_	_
+3	dātaun.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-340
+# text = Ki padā ǰanā bi mardā baxšāt.
+# text_en = Who gave the woman back to her husband.
+1	Ki	Ki	SCONJ	_	_	6	mark	_	_
+2	padā	pad	ADV	_	_	6	advmod	_	_
+3	ǰanā	ǰanā	NOUN	_	Number=Sing	6	obj	_	_
+4	bi	bi	ADP	_	ExtPos=ADP	5	case	_	_
+5	mardā	mard	NOUN	_	Number=Sing	6	obl	_	_
+6	baxšāt.	baxš	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-93
+# text = Māray zārant.
+# text_en = They are snake’s poison.
+1	Māray	Mār	NOUN	_	Number=Sing	2	nmod:poss	_	_
+2	zārant.	zār	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-419
+# text = Har kārē gō man kurtagay.
+# text_en = Whatever you have done to me,.
+1	Har	Har	DET	_	PronType=Dem	2	det	_	_
+2	kārē	kār	NOUN	_	Number=Sing	5	obj	_	_
+3	gō	gō	ADP	_	ExtPos=ADP	4	case	_	_
+4	man	man	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+5	kurtagay.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-290
+# text = Mnī muzdā ta tilāa dayay.
+# text_en = (and) you give my wages in gold.
+1	Mnī	Mnī	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+2	muzdā	muzd	NOUN	_	Number=Plur	5	obj	_	_
+3	ta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+4	tilāa	tilā	NOUN	_	Number=Sing	5	obl	_	_
+5	dayay.	deig	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-476
+# text = Mūsā idā ātu.
+# text_en = Moses came here and,.
+1	Mūsā	Mūsā	PROPN	_	Number=Sing	3	nsubj	_	_
+2	idā	idā	ADV	_	_	3	advmod	_	_
+3	ātu.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-536
+# text = Bād man gisa kanīn gō ēšī.
+# text_en = After forty nights I will marry her.
+1	Bād	Bād	ADV	_	_	4	advmod	_	_
+2	man	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	gisa	gisa	ADJ	_	_	4	obl	_	_
+4	kanīn	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+5	gō	gō	ADP	_	ExtPos=ADP	6	case	_	_
+6	ēšī.	ēš	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+
+# sent_id = blc_gps-149
+# text = Šutant diga bādšāīyā.
+# text_en = They went to another kingdom.
+1	Šutant	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	diga	diga	DET	_	Number=Sing|PronType=Ind	3	det	_	_
+3	bādšāīyā.	bādšāī	NOUN	_	Number=Sing	1	obl	_	_
+
+# sent_id = blc_gps-60
+# text = Bra mūsā.
+# text_en = Go Moses.
+1	Bra	Bra	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	mūsā.	mūsā	PROPN	_	Number=Sing	1	nsubj	_	_
+
+# sent_id = blc_gps-316
+# text = Pista čit=u.
+# text_en = He picked pistachio and.
+1	Pista	Pista	NOUN	_	Number=Plur	2	obj	_	_
+2	čit=u.	čist	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-183
+# text = Watrā kurkuṭūa dāt.
+# text_en = He tormented himself.
+1	Watrā	Wat	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	kurkuṭūa	kurkuṭū	NOUN	_	Number=Sing	3	obj	_	_
+3	dāt.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-304
+# text = Margu xarǰay ki giptant.
+# text_en = When they performed the mourning ceremonies with all its expenses.
+1	Margu	Marg	NOUN	_	Number=Sing	4	obj	_	_
+2	xarǰay	xarǰ	NOUN	_	Number=Sing	4	obl	_	_
+3	ki	ki	AUX	_	_	4	aux	_	_
+4	giptant.	gerag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-398
+# text = Ki ta watī duzzīyānāa kanay.
+# text_en = That you will commit (your) theft,.
+1	Ki	Ki	SCONJ	_	_	5	mark	_	_
+2	ta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+3	watī	wat	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	_
+4	duzzīyānāa	duzzī	NOUN	_	Number=Sing	5	obj	_	_
+5	kanay.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-13
+# text = Guṛā ē ṭukkurē ki šut padā ēšā išārayē ku.
+# text_en = Then, when he (the carpenter) went a little further, again, it (the dragon) gave him a hint.
+1	Guṛā	Guṛā	ADV	_	_	9	mark	_	_
+2	ē	ē	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	ṭukkurē	ṭukkur	ADJ	_	_	5	advmod	_	_
+4	ki	ki	SCONJ	_	_	5	mark	_	_
+5	šut	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+6	padā	pad	ADV	_	_	9	advmod	_	_
+7	ēšā	ēš	PRON	_	Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+8	išārayē	išāra	NOUN	_	Number=Sing	9	obj	_	_
+9	ku.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-439
+# text = Gu.
+# text_en = It (the dragon) said:.
+1	Gu.	gusag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-425
+# text = Naun.
+# text_en = I am not,.
+1	Naun.	Naun	ADV	_	_	0	root	_	_
+
+# sent_id = blc_gps-487
+# text = Aga bār girānēn laḍḍitagay.
+# text_en = If you have loaded me up with heavy loads,.
+1	Aga	Aga	SCONJ	_	_	4	mark	_	_
+2	bār	bār	NOUN	_	Number=Plur	4	obj	_	_
+3	girānēn	girān	ADJ	_	_	2	amod	_	_
+4	laḍḍitagay.	laḍ	VERB	_	Aspect=Perf|Mood=Ind|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-294
+# text = Kaptay.
+# text_en = You have fallen down.
+1	Kaptay.	Kapt	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-22
+# text = Amidā ki ātant guštant.
+# text_en = When they came there, they said:.
+1	Amidā	idā	ADV	_	_	3	advmod	_	_
+2	ki	ki	SCONJ	_	_	3	mark	_	_
+3	ātant	biá	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+4	guštant.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-548
+# text = Bgiritē.
+# text_en = Seize him!
+1	Bgiritē.	gerag	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-412
+# text = Man gūlāmē bāz ǰwānēn dārīn.
+# text_en = I have a very nice slave,.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	gūlāmē	gūlām	NOUN	_	Number=Sing	5	obj	_	_
+3	bāz	bāz	ADV	_	_	4	advmod	_	_
+4	ǰwānēn	ǰwān	ADJ	_	_	2	amod	_	_
+5	dārīn.	dār	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-279
+# text = Man yag ǰāyē yag bahārīyē dīsta.
+# text_en = I have seen a pasture in a place,.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	yag	yag	DET	_	PronType=Art	3	det	_	_
+3	ǰāyē	ǰā	NOUN	_	Number=Sing	6	obl	_	_
+4	yag	yag	DET	_	PronType=Art	5	det	_	_
+5	bahārīyē	bahār	NOUN	_	Number=Sing	6	obj	_	_
+6	dīsta.	bachár	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-231
+# text = Allāayā ki šut.
+# text_en = When he went to God.
+1	Allāayā	Allā	PROPN	_	Number=Sing	3	obl	_	_
+2	ki	ki	SCONJ	_	_	3	mark	_	_
+3	šut.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-428
+# text = Wa man lōṭitaun.
+# text_en = And it has been my will .
+1	Wa	Wa	CCONJ	_	_	3	cc	_	_
+2	man	man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	lōṭitaun.	lōṭ	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-97
+# text = Āt azrati mūsā.
+# text_en = His Holiness Moses came.
+1	Āt	biá	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	azrati	azrat	ADJ	_	_	3	amod	_	_
+3	mūsā.	mūsā	PROPN	_	Number=Sing	1	nsubj	_	_
+
+# sent_id = blc_gps-132
+# text = Nūn ǰinikkō pēšān kissaa kant.
+# text_en = Now, the girl (merchant’s daughter) is telling them the story.
+1	Nūn	Nūn	ADV	_	_	5	advmod	_	_
+2	ǰinikkō	ǰinik	NOUN	_	Number=Sing	5	nsubj	_	_
+3	pēšān	ē	PRON	_	Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+4	kissaa	kissa	NOUN	_	Number=Sing	5	obj	_	_
+5	kant.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-540
+# text = Man trā damāa kanīn.
+# text_en = I will sting you.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	trā	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+3	damāa	dam	NOUN	_	Number=Sing	4	obj	_	_
+4	kanīn.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-315
+# text = Bālā bū kō-ay sarā.
+# text_en = Climbed the mountain.
+1	Bālā	Bālā	ADJ	_	_	2	xcomp	_	_
+2	bū	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kō-ay	kō	NOUN	_	Number=Sing	4	nmod	_	_
+4	sarā.	sar	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = blc_gps-579
+# text = Yakk kassēat.
+# text_en = There was a certain person.
+1	Yakk	Yakk	DET	_	PronType=Art	2	det	_	_
+2	kassēat.	kass	PRON	_	Number=Sing|Person=3|PronType=Ind	0	root	_	_
+
+# sent_id = blc_gps-495
+# text = Āxirā wat šutun.
+# text_en = At last, I went myself:.
+1	Āxirā	Āxir	ADV	_	_	3	advmod	_	_
+2	wat	wat	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	šutun.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-342
+# text = Ki duzzam ǰwānēn kārē kurtagant.
+# text_en = The thieves have also done a good deed.
+1	Ki	Ki	SCONJ	_	_	5	mark	_	_
+2	duzzam	duzz	NOUN	_	Number=Plur	5	nsubj	_	_
+3	ǰwānēn	ǰwān	ADJ	_	_	4	amod	_	_
+4	kārē	kār	NOUN	_	Number=Sing	5	obj	_	_
+5	kurtagant.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-417
+# text = Aγl nadāta.
+# text_en = Has not given you wisdom.
+1	Aγl	Aγl	NOUN	_	Number=Sing	2	obj	_	_
+2	nadāta.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-402
+# text = Ki ta dara kanay.
+# text_en = That you take (the snake).
+1	Ki	Ki	SCONJ	_	_	4	mark	_	_
+2	ta	ta	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	dara	dan	ADV	_	_	4	advmod	_	_
+4	kanay.	ka	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-568
+# text = Ki bādišā lōṭit.
+# text_en = Because the king called (him).
+1	Ki	Ki	SCONJ	_	_	3	mark	_	_
+2	bādišā	bādišā	NOUN	_	Number=Sing	3	nsubj	_	_
+3	lōṭit.	lōṭ	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-517
+# text = Bimē taǰǰāray awtāxā ništant.
+# text_en = Sat down in the merchant’s room.
+1	Bimē	Bi	ADP	_	ExtPos=ADP	3	case	_	_
+2	taǰǰāray	taǰǰār	NOUN	_	Number=Sing	3	nmod:poss	_	_
+3	awtāxā	awtāx	NOUN	_	Number=Sing	4	obl	_	_
+4	ništant.	nendag	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-378
+# text = Sakandaram sī būt.
+# text_en = Alexander heard it, too.
+1	Sakandaram	Sakandar	PROPN	_	Number=Sing	3	nsubj	_	_
+2	sī	sī	ADJ	_	_	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-172
+# text = Watī ǰinikkā bday.
+# text_en = Give (me) your daughter!
+1	Watī	Watī	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	_
+2	ǰinikkā	ǰinik	NOUN	_	Number=Sing	3	obj	_	_
+3	bday.	deig	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-84
+# text = Ē salmān ganōk būt.
+# text_en = This barber became mad.
+1	Ē	Ē	DET	_	PronType=Dem	2	det	_	_
+2	salmān	salmān	PROPN	_	Number=Sing	4	nsubj	_	_
+3	ganōk	ganōk	ADJ	_	_	4	xcomp	_	_
+4	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-599
+# text = Zurt mūsāā yaxband.
+# text_en = Frost seized Moses.
+1	Zurt	bzur	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	mūsāā	mūsā	PROPN	_	Number=Sing	1	obj	_	_
+3	yaxband.	yaxband	NOUN	_	Number=Sing	1	nsubj	_	_
+
+# sent_id = blc_gps-319
+# text = Say zāg dāštō.
+# text_en = He had three sons and.
+1	Say	Say	NUM	_	NumType=Card	2	nmod	_	_
+2	zāg	zāg	NOUN	_	Number=Plur	3	obj	_	_
+3	dāštō.	dari	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-146
+# text = Ābādī nazzīk būt.
+# text_en = They came near the village.
+1	Ābādī	Ābādī	NOUN	_	Number=Sing	3	nsubj	_	_
+2	nazzīk	nazzīk	ADJ	_	_	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-356
+# text = Marga lōṭay.
+# text_en = (If) you want death,.
+1	Marga	Marg	NOUN	_	Number=Sing	2	obj	_	_
+2	lōṭay.	lōṭ	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-365
+# text = Irātī kāzī at rišwatxōrēn.
+# text_en = The judge of Hirat was a bribe-taker.
+1	Irātī	Irāt	PROPN	_	Number=Sing	2	nmod:poss	_	_
+2	kāzī	kāzī	NOUN	_	Number=Sing	3	nsubj	_	_
+3	at	e	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	rišwatxōrēn.	rišwatxōr	NOUN	_	Number=Sing	3	xcomp	_	_
+
+# sent_id = blc_gps-190
+# text = Bādišā watī ǰinikkā ēširā dāt.
+# text_en = The king gave his daughter (in marriage) to him.
+1	Bādišā	Bādišā	NOUN	_	Number=Sing	5	nsubj	_	_
+2	watī	wat	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+3	ǰinikkā	ǰinik	NOUN	_	Number=Sing	5	obj	_	_
+4	ēširā	ēš	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+5	dāt.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-538
+# text = Ta duwārag mnīyā mayāyay.
+# text_en = (but) you don’t come to me again.
+1	Ta	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	duwārag	duwārag	ADV	_	_	4	advmod	_	_
+3	mnīyā	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+4	mayāyay.	bia	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-76
+# text = Yakk kammēn zarrē mant.
+# text_en = A little money was left.
+1	Yakk	Yakk	DET	_	PronType=Art	3	det	_	_
+2	kammēn	kam	ADJ	_	_	3	amod	_	_
+3	zarrē	zar	NOUN	_	Number=Plur	4	nsubj	_	_
+4	mant.	mant	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-283
+# text = Šumā bōrit ā bahārā.
+# text_en = You eat that green and thriving pasture,.
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	bōrit	bōr	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ā	ā	DET	_	PronType=Dem	4	det	_	_
+4	bahārā.	bahār	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = blc_gps-505
+# text = Bass māmūrānā dēm dāt.
+# text_en = Immediately sent the agents.
+1	Bass	Bass	ADV	_	_	4	advmod	_	_
+2	māmūrānā	māmūr	NOUN	_	Number=Plur	4	obj	_	_
+3	dēm	dēm	ADV	_	_	4	advmod	_	_
+4	dāt.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-472
+# text = Man yakk warā ǰangalā kārīn.
+# text_en = I will bring the forest all at once.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	yakk	yakk	NUM	_	NumType=Card	3	nummod	_	_
+3	warā	war	ADV	_	_	5	advmod	_	_
+4	ǰangalā	ǰangal	NOUN	_	Number=Sing	5	obj	_	_
+5	kārīn.	biár	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-165
+# text = Zabr watrā ārāyiš kurtat.
+# text_en = She had made herself up well.
+1	Zabr	Zabr	ADV	_	_	4	advmod	_	_
+2	watrā	wat	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	ārāyiš	ārāyiš	ADJ	_	_	4	xcomp	_	_
+4	kurtat.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-332
+# text = Nākō ē ganōkant.
+# text_en = Uncle, these are crazy.
+1	Nākō	Nākō	NOUN	_	Number=Sing	2	vocative	_	_
+2	ē	ē	DET	_	PronType=Dem	3	nsubj	_	_
+3	ganōkant.	ganōk	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-367
+# text = Ta irāt maǰlisinta.
+# text_en = Behold there is a meeting in Hirat,.
+1	Ta	Ta	ADP	_	ExtPos=ADP	2	case	_	_
+2	irāt	irāt	PROPN	_	Number=Sing	3	obl	_	_
+3	maǰlisinta.	maǰlis	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-480
+# text = Nadīst.
+# text_en = (he) did not see.
+1	Nadīst.	gendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-173
+# text = Mnī ǰinikk ā rang naint.
+# text_en = (Marrying) my daughter is not (possible) so easy.
+1	Mnī	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+2	ǰinikk	ǰinikk	NOUN	_	Number=Sing	4	nsubj	_	_
+3	ā	ā	DET	_	Number=Sing|PronType=Dem	4	obl	_	_
+4	rang	rang	ADP	_	ExtPos=ADP	0	root	_	_
+5	naint.	int	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+
+# sent_id = blc_gps-562
+# text = Amingu dūrint.
+# text_en = It is far (in) this direction.
+1	Amingu	ingu	ADV	_	_	2	advmod	_	_
+2	dūrint.	dūr	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-156
+# text = Sabzō ša killaā dara bū.
+# text_en = Sabzo started going out from the wedding tent.
+1	Sabzō	Sabzō	PROPN	_	Number=Sing	5	nsubj	_	_
+2	ša	ša	ADP	_	ExtPos=ADP	3	case	_	_
+3	killaā	killa	NOUN	_	Number=Sing	5	obl	_	_
+4	dara	dara	ADV	_	_	5	advmod	_	_
+5	bū.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-463
+# text = Ī yag rōčē gu.
+# text_en = The man one day said (to himself):.
+1	Ī	Ī	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	yag	yag	NUM	_	NumType=Card	3	nummod	_	_
+3	rōčē	rōč	NOUN	_	Number=Sing	4	obl	_	_
+4	gu.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-423
+# text = Guštun.
+# text_en = I said:.
+1	Guštun.	Gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-201
+# text = Ki mnī ǰinikkā ša mnī addā bar.
+# text_en = Take my girl away from my place.
+1	Ki	Ki	SCONJ	_	_	7	mark	_	_
+2	mnī	mnī	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
+3	ǰinikkā	ǰinik	NOUN	_	Number=Sing	7	obj	_	_
+4	ša	ša	ADP	_	ExtPos=ADP	6	case	_	_
+5	mnī	mnī	DET	_	Number=Sing|PronType=Prs	6	nmod:poss	_	_
+6	addā	ad	NOUN	_	_	7	obl	_	_
+7	bar.	bar	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-179
+# text = Ki ē ǰinikkē.
+# text_en = That this was a girl.
+1	Ki	Ki	SCONJ	_	_	3	mark	_	_
+2	ē	ē	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	ǰinikkē.	ǰinik	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-16
+# text = Nāmay guṛā galawā ištant xarmizza.
+# text_en = Then they named the melon ‘xarmizza’ (which means donkey-taste).
+1	Nāmay	Nām	NOUN	_	Number=Sing	4	obj	_	_
+2	guṛā	guṛā	ADV	_	_	4	advmod	_	_
+3	galawā	galaw	NOUN	_	Number=Sing	4	obl	_	_
+4	ištant	ér	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	xarmizza.	xarmizza	PROPN	_	Number=Sing	4	xcomp	_	_
+
+# sent_id = blc_gps-462
+# text = Amē wār drōγint.
+# text_en = Or it is a lie.
+1	Amē	ē	DET	_	PronType=Dem	3	det	_	_
+2	wār	wār	ADP	_	ExtPos=ADP	3	case	_	_
+3	drōγint.	drōγ	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-355
+# text = Bāzam sōǰ ka.
+# text_en = Anyway ask.
+1	Bāzam	Bāzam	ADV	_	_	3	advmod	_	_
+2	sōǰ	sōǰ	NOUN	_	Number=Sing	3	obj	_	_
+3	ka.	ka	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-325
+# text = B-raw-an čār-umī-(y)ēn ta.
+# text_en = Let’s go, you (are) the fourth one,.
+1	B-raw-an	Bra	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	čār-umī-(y)ēn	čārumī	ADJ	_	_	3	amod	_	_
+3	ta.	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+
+# sent_id = blc_gps-9
+# text = J̌ang ēšānī tā kapt.
+# text_en = (and) War broke out among them.
+1	J̌ang	J̌ang	NOUN	_	Number=Sing	4	obj	_	_
+2	ēšānī	ē	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+3	tā	tā	ADP	_	ExtPos=ADP	2	case	_	_
+4	kapt.	kapt	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-308
+# text = Watī arā zurtu.
+# text_en = He took his donkey and.
+1	Watī	Wat	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+2	arā	arā	NOUN	_	Number=Sing	3	obj	_	_
+3	zurtu.	bzur	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-494
+# text = Nayāt.
+# text_en = He did not come.
+1	Nayāt.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-252
+# text = Ki zī mēmān būtat.
+# text_en = Where he had been invited the day before.
+1	Ki	Ki	SCONJ	_	_	4	mark	_	_
+2	zī	zī	ADV	_	_	4	advmod	_	_
+3	mēmān	mēmān	NOUN	_	Number=Sing	4	obj	_	_
+4	būtat.	bóg	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-502
+# text = Sōbī šut.
+# text_en = In the morning he went.
+1	Sōbī	Sōb	ADV	_	_	2	advmod	_	_
+2	šut.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-208
+# text = Aždīyā gušta.
+# text_en = The dragon has said:.
+1	Aždīyā	Aždīyā	NOUN	_	Number=Sing	2	nsubj	_	_
+2	gušta.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-314
+# text = Gwālag-ā zurt=u.
+# text_en = (he) took the sack and.
+1	Gwālag-ā	Gwāla	NOUN	_	Number=Sing	2	obj	_	_
+2	zurt=u.	bzur	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-67
+# text = Tī amānu farmānā.
+# text_en = (I was) in your command and security.
+1	Tī	Tī	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	_
+2	amānu	amān	NOUN	_	Number=Sing	0	root	_	_
+3	farmānā.	farmān	NOUN	_	Number=Sing	2	conj	_	_
+
+# sent_id = blc_gps-194
+# text = Yakk sāli diga pīrakk umr ku.
+# text_en = Pirakk lived one more year.
+1	Yakk	Yakk	NUM	_	NumType=Card	2	nummod	_	_
+2	sāli	sāli	NOUN	_	Number=Sing	6	obl	_	_
+3	diga	diga	ADJ	_	_	2	amod	_	_
+4	pīrakk	pīrakk	PROPN	_	Number=Sing	6	nsubj	_	_
+5	umr	umr	NOUN	_	Number=Sing	6	obj	_	_
+6	ku.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-254
+# text = Napastankint.
+# text_en = It is short of breath.
+1	Napastankint.	Napastank	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-298
+# text = Ā ēšint.
+# text_en = And that is this.
+1	Ā	Ā	PRON	_	Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_
+2	ēšint.	ēš	PRON	_	Number=Sing|Person=3|PronType=Dem	0	root	_	_
+
+# sent_id = blc_gps-473
+# text = Mardak watī dastā burritu.
+# text_en = The man cut his hand and.
+1	Mardak	Mardak	NOUN	_	Number=Sing	4	nsubj	_	_
+2	watī	wat	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+3	dastā	dast	NOUN	_	Number=Sing	4	obj	_	_
+4	burritu.	burag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-241
+# text = Šaš ē diga rōčēnā.
+# text_en = Six the next day.
+1	Šaš	Šaš	NUM	_	NumType=Card	0	root	_	_
+2	ē	ē	DET	_	PronType=Art	4	det	_	_
+3	diga	diga	ADJ	_	_	4	amod	_	_
+4	rōčēnā.	rōč	NOUN	_	_	1	nmod:tmod	_	_
+
+# sent_id = blc_gps-492
+# text = Ki taǰǰār būt.
+# text_en = But he became a merchant.
+1	Ki	Ki	SCONJ	_	_	3	mark	_	_
+2	taǰǰār	taǰǰār	NOUN	_	Number=Sing	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-535
+# text = Bādšāay zāgat.
+# text_en = He was the king’s son.
+1	Bādšāay	Bādšā	NOUN	_	Number=Sing	2	nmod:poss	_	_
+2	zāgat.	zāg	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-267
+# text = Šumā bōrit ē bahārānā.
+# text_en = You eat this green and thriving pasture.
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	bōrit	bōr	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ē	ē	DET	_	PronType=Dem	4	det	_	_
+4	bahārānā.	bahār	NOUN	_	Number=Plur	2	obj	_	_
+
+# sent_id = blc_gps-119
+# text = Ē sawdāē ǰwānēn.
+# text_en = This is a good bargain!
+1	Ē	Ē	DET	_	PronType=Dem	2	det	_	_
+2	sawdāē	sawdā	NOUN	_	Number=Sing	0	root	_	_
+3	ǰwānēn.	ǰwān	ADJ	_	_	2	amod	_	_
+
+# sent_id = blc_gps-202
+# text = Ta nūn nizgāray.
+# text_en = You are destitute now.
+1	Ta	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	nūn	nūn	ADV	_	_	3	advmod	_	_
+3	nizgāray.	nizgār	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-386
+# text = Tī umr bāzint.
+# text_en = Your life is long,.
+1	Tī	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	_
+2	umr	umr	NOUN	_	Number=Sing	3	nsubj	_	_
+3	bāzint.	bāz	ADJ	_	_	0	root	_	_
+
+# sent_id = blc_gps-185
+# text = Ēšānī zadā būt.
+# text_en = It was stalking them.
+1	Ēšānī	Ē	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	zadā	zadā	ADJ	_	_	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-504
+# text = Ništ.
+# text_en = He sat down.
+1	Ništ.	Nendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-101
+# text = Lōṭitī watī māsā.
+# text_en = He called his mother.
+1	Lōṭitī	Lōṭ	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	watī	wat	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	_
+3	māsā.	mās	NOUN	_	Number=Sing	1	obj	_	_
+
+# sent_id = blc_gps-595
+# text = Du tūpak zurt.
+# text_en = She took two gun.
+1	Du	Du	NUM	_	NumType=Card	2	nummod	_	_
+2	tūpak	tūpak	NOUN	_	Number=Plur	3	obj	_	_
+3	zurt.	bzur	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-560
+# text = Dōlānā xāmōš maka.
+# text_en = Do not make the drums silent.
+1	Dōlānā	Dōl	NOUN	_	Number=Plur	3	obj	_	_
+2	xāmōš	xāmōš	ADJ	_	_	3	xcomp	_	_
+3	maka.	ka	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-334
+# text = Gušt=ī
+# text_en = He (my husband) said:.
+1	Gušt=ī	Gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-459
+# text = Yā rāst.
+# text_en = Or (telling) the truth.
+1	Yā	Yā	CCONJ	_	_	2	cc	_	_
+2	rāst.	rāst	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-303
+# text = Zāg ēšā kabr kurtant.
+# text_en = The children buried him.
+1	Zāg	Zāg	NOUN	_	Number=Plur	4	nsubj	_	_
+2	ēšā	ē	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	kabr	kabr	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+4	kurtant.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-256
+# text = Bi bādšā arz kurta.
+# text_en = It had informed the king.
+1	Bi	Bi	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	bādšā	bādšā	NOUN	_	Number=Sing	4	obj	_	_
+3	arz	arz	ADJ	_	_	4	xcomp	_	_
+4	kurta.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-117
+# text = Māray zārant.
+# text_en = They were snake poison.
+1	Māray	Mār	NOUN	_	Number=Sing	2	nmod:poss	_	_
+2	zārant.	zār	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-75
+# text = Pāday sōtant.
+# text_en = His feet were burnt.
+1	Pāday	Pād	NOUN	_	Number=Plur	2	nsubj	_	_
+2	sōtant.	sōch	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-23
+# text = Amē kabristānayā ki ātant.
+# text_en = When they came to this very graveyard,.
+1	Amē	ē	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	kabristānayā	kabristān	NOUN	_	Number=Sing	4	obl	_	_
+3	ki	ki	SCONJ	_	_	4	mark	_	_
+4	ātant.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-530
+# text = Ēšānā drōg ǰat.
+# text_en = Lied to them.
+1	Ēšānā	Ē	PRON	_	Number=Plur|Person=3|PronType=Prs	3	obl	_	_
+2	drōg	drōg	NOUN	_	Number=Sing	3	obj	_	_
+3	ǰat.	ǰan	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-236
+# text = Marōčī šut nāmǰīnay.
+# text_en = That day he went to the centre (of the town).
+1	Marōčī	Marōč	ADV	_	_	2	advmod	_	_
+2	šut	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nāmǰīnay.	nāmǰīn	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = blc_gps-15
+# text = Wārtantō ki wārtant nūn guštant.
+# text_en = They ate, and when they had eaten, they said:.
+1	Wārtantō	Wār	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ki	ki	SCONJ	_	_	3	mark	_	_
+3	wārtant	wār	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+4	nūn	nūn	ADV	_	_	5	advmod	_	_
+5	guštant.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+
+# sent_id = blc_gps-397
+# text = Man=a zān-īn.
+# text_en = I know.
+1	Man=a	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	zān-īn.	zān	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-43
+# text = Say duzz irāda kurtatant.
+# text_en = Three thieves had decided.
+1	Say	Say	NUM	_	NumType=Card	2	nummod	_	_
+2	duzz	duzz	NOUN	_	Number=Plur	4	nsubj	_	_
+3	irāda	irāda	NOUN	_	Number=Sing	4	obj	_	_
+4	kurtatant.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-148
+# text = J̌istant.
+# text_en = They ran away.
+1	J̌istant.	J̌ist	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-108
+# text = Byā mnā ta bgir.
+# text_en = Come (and) you marry me.
+1	Byā	Byā	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+2	mnā	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+3	ta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+4	bgir.	gerag	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+
+# sent_id = blc_gps-87
+# text = Man āyirā warīn.
+# text_en = I will eat it.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	āyirā	ā	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	warīn.	war	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-141
+# text = Xudānizar xān murt.
+# text_en = Khudanizar Khan died.
+1	Xudānizar	Xudānizar	PROPN	_	Number=Sing	3	nsubj	_	_
+2	xān	xān	PROPN	_	Number=Sing	1	flat	_	_
+3	murt.	marag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-409
+# text = Ta ēš kačkōlē guṭṭayint.
+# text_en = Behold he has a begging bowl on his neck,.
+1	Ta	Ta	ADP	_	ExtPos=ADP	3	case	_	_
+2	ēš	ēš	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	kačkōlē	kačkōl	NOUN	_	Number=Sing	0	root	_	_
+4	guṭṭayint.	guṭṭ	NOUN	_	Number=Sing	3	nmod	_	_
+
+# sent_id = blc_gps-435
+# text = Wāǰa tī pistawu hamidāant.
+# text_en = Sir, your pistachio are certainly here.
+1	Wāǰa	Wāǰa	NOUN	_	Number=Sing	3	vocative	_	_
+2	tī	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	_
+3	pistawu	pista	NOUN	_	Number=Plur	0	root	_	_
+4	hamidāant.	hamidā	ADV	_	_	3	advmod	_	_
+
+# sent_id = blc_gps-139
+# text = Kissa ēšin.
+# text_en = The story is this.
+1	Kissa	Kissa	NOUN	_	Number=Sing	0	root	_	_
+2	ēšin.	ē	DET	_	PronType=Dem	1	det	_	_
+
+# sent_id = blc_gps-131
+# text = Iškaru zāntay diga.
+# text_en = Live embers, you got that, didn’t you?
+1	Iškaru	Iškar	NOUN	_	Number=Plur	2	nsubj	_	_
+2	zāntay	zān	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	diga.	diga	ADV	_	_	2	advmod	_	_
+
+# sent_id = blc_gps-242
+# text = Pōšī dwārag āt.
+# text_en = The next day he came again.
+1	Pōšī	Pōš	ADV	_	_	3	advmod	_	_
+2	dwārag	dwāra	ADV	_	_	3	advmod	_	_
+3	āt.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-442
+# text = Pa karāmāt maga man dar bayīn.
+# text_en = (and) only by a miracle will I be unrolled.
+1	Pa	Pa	ADP	_	ExtPos=ADP	2	case	_	_
+2	karāmāt	karāmāt	NOUN	_	Number=Sing	6	obl	_	_
+3	maga	maga	ADV	_	_	6	advmod	_	_
+4	man	man	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	dar	dar	ADV	_	_	6	advmod	_	_
+6	bayīn.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-479
+# text = Garm bīt.
+# text_en = Become warm,.
+1	Garm	Garm	ADJ	_	_	2	xcomp	_	_
+2	bīt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-395
+# text = Dili rām dāšta bī.
+# text_en = (and) who has had a merciful heart,.
+1	Dili	Dil	NOUN	_	Number=Sing	3	obj	_	_
+2	rām	rām	ADJ	_	_	1	amod	_	_
+3	dāšta	dāšt	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	_
+4	bī.	bī	PRON	_	Number=Sing|Person=3|PronType=Int	3	nsubj	_	_
+
+# sent_id = blc_gps-348
+# text = J̌inikk=ē=(w)ay.
+# text_en = You are a girl,.
+1	J̌inikk=ē=(w)ay.	J̌inik	VERB	_	Aspect=Perf|Mood=Ind|Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-444
+# text = Tī kārē naint.
+# text_en = (that) is not your job (in your ability).
+1	Tī	Tī	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	_
+2	kārē	kār	NOUN	_	Number=Sing	0	root	_	_
+3	naint.	int	PART	_	_	2	advmod	_	_
+
+# sent_id = blc_gps-426
+# text = Wali aga pāč būtēnun.
+# text_en = But if I were free.
+1	Wali	Wali	CCONJ	_	_	4	cc	_	_
+2	aga	aga	SCONJ	_	_	4	mark	_	_
+3	pāč	pāč	ADJ	_	_	4	xcomp	_	_
+4	būtēnun.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-514
+# text = Xayr dātē.
+# text_en = Well, he (Omar) gave (the gold).
+1	Xayr	Xayr	INTJ	_	_	2	discourse	_	_
+2	dātē.	day	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-169
+# text = Yag rōčē dīst.
+# text_en = One day he noticed.
+1	Yag	Yag	NUM	_	NumType=Card	2	nummod	_	_
+2	rōčē	rōč	NOUN	_	Number=Sing	3	obl	_	_
+3	dīst.	gendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-407
+# text = Arā mnī pēšimām kurtayu.
+# text_en = Made the donkey my leader and ….
+1	Arā	Arā	NOUN	_	Number=Sing	4	obj	_	_
+2	mnī	man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
+3	pēšimām	pēšimām	NOUN	_	Number=Sing	4	obl	_	_
+4	kurtayu.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-255
+# text = Āta idā.
+# text_en = It had come here.
+1	Āta	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	idā.	idā	ADV	_	_	1	advmod	_	_
+
+# sent_id = blc_gps-52
+# text = Ammā amā rang pkanan.
+# text_en = Let’s do the same.
+1	Ammā	Ammā	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	amā	amā	PRON	_	Number=Sing|Person=3|PronType=Dem	4	obl	_	_
+3	rang	rang	ADP	_	ExtPos=ADP	2	case	_	_
+4	pkanan.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-490
+# text = Kull ǰahānay taǰǰār būt.
+# text_en = The trader of the entire world.
+1	Kull	Kull	DET	_	PronType=Tot	2	det	_	_
+2	ǰahānay	ǰahān	NOUN	_	Number=Sing	4	nsubj	_	_
+3	taǰǰār	taǰǰār	NOUN	_	Number=Sing	4	xcomp	_	_
+4	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-507
+# text = Byārit.
+# text_en = Bring them.
+1	Byārit.	Byār	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-180
+# text = Amsāyagama nazāntant.
+# text_en = Even the neighbours didn’t know.
+1	Amsāyagama	Amsāya	NOUN	_	Number=Plur	2	nsubj	_	_
+2	nazāntant.	zānag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-295
+# text = Annūna miray.
+# text_en = Now you are dying.
+1	Annūna	Annūn	ADV	_	_	2	advmod	_	_
+2	miray.	marag	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-501
+# text = Bass čalāpt siyāyēnā.
+# text_en = Immediately it seized the black (one).
+1	Bass	Bass	ADV	_	_	2	advmod	_	_
+2	čalāpt	čalāp	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	siyāyēnā.	siyāyēnā	NOUN	_	Number=Sing	2	nsubj	_	_
+
+# sent_id = blc_gps-553
+# text = Šumāum bōrit.
+# text_en = You, too, (should) eat (it).
+1	Šumāum	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	bōrit.	bōr	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-69
+# text = Amā kučakk aslīyēn tī māsint.
+# text_en = But the real dog is your mother.
+1	Amā	Amā	DET	_	PronType=Art	2	det	_	_
+2	kučakk	kučakk	NOUN	_	Number=Sing	5	nsubj	_	_
+3	aslīyēn	aslī	ADJ	_	_	2	amod	_	_
+4	tī	tī	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	_	_
+5	māsint.	mās	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-216
+# text = Ā wata kayt.
+# text_en = He himself will come.
+1	Ā	Ā	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	wata	wat	PRON	_	Number=Sing|Person=3|PronType=Prs	1	appos	_	_
+3	kayt.	kayt	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-531
+# text = Gō ēšān drōgē ǰat.
+# text_en = He told them a lie:.
+1	Gō	Gō	ADP	_	ExtPos=ADP	2	case	_	_
+2	ēšān	ēš	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obl	_	_
+3	drōgē	drōg	NOUN	_	Number=Sing	4	obj	_	_
+4	ǰat.	ǰan	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-193
+# text = Xudānizar xānāam lōṭitat.
+# text_en = He had also invited Khudanizar Khan.
+1	Xudānizar	Xudānizar	PROPN	_	Number=Sing	3	obj	_	_
+2	xānāam	xān	PROPN	_	Number=Sing	1	flat	_	_
+3	lōṭitat.	lōṭ	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-361
+# text = Am uštir-ān=ay.
+# text_en = And, also their camels.
+1	Am	Am	ADV	_	_	2	advmod	_	_
+2	uštir-ān=ay.	uštir	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-582
+# text = Ē nākōzākē dāšt.
+# text_en = He had a cousin.
+1	Ē	Ē	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	nākōzākē	nākōzāk	NOUN	_	Number=Sing	3	obj	_	_
+3	dāšt.	dār	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-106
+# text = Ta yak kišāwarz=ē zimīndār=ē.
+# text_en = Behold a farmer, a landlord.
+1	Ta	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	yak	yak	DET	_	PronType=Art	3	det	_	_
+3	kišāwarz=ē	kišāwarz	NOUN	_	Number=Sing	0	root	_	_
+4	zimīndār=ē.	zimīndār	NOUN	_	Number=Sing	3	appos	_	_
+
+# sent_id = blc_gps-46
+# text = Aga nabūtan ki hičkasā iččī.
+# text_en = If we don’t, then nobody will get anything.
+1	Aga	Aga	SCONJ	_	_	2	mark	_	_
+2	nabūtan	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ki	ki	ADV	_	_	2	advmod	_	_
+4	hičkasā	hičkas	PRON	_	Number=Plur|Person=3|PronType=Neg	2	obj	_	_
+5	iččī.	iččī	PRON	_	Number=Plur|Person=3|PronType=Neg	4	conj	_	_
+
+# sent_id = blc_gps-189
+# text = Byā mašmā pēšī nāmē billan.
+# text_en = Let’s give it a name.
+1	Byā	Byā	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+2	mašmā	mašmā	PRON	_	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+3	pēšī	ēš	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+4	nāmē	nām	NOUN	_	Number=Sing	5	obj	_	_
+5	billan.	bil	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
+
+# sent_id = blc_gps-61
+# text = Pammanam sōǰ kanay.
+# text_en = Ask also for me.
+1	Pammanam	man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+2	sōǰ	sōǰ	NOUN	_	Number=Sing	3	obj	_	_
+3	kanay.	ka	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-259
+# text = Aždīyā gu maprēnay.
+# text_en = The dragon said: do not drop me.
+1	Aždīyā	Aždīyā	NOUN	_	Number=Sing	2	nsubj	_	_
+2	gu	gusag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	maprēnay.	prēn	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+
+# sent_id = blc_gps-159
+# text = Tamāšāa ku.
+# text_en = She was watching (him).
+1	Tamāšāa	Tamāšā	NOUN	_	Number=Sing	2	obj	_	_
+2	ku.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-266
+# text = J̌anakkā ātun pkušīn.
+# text_en = The woman, I was going to kill.
+1	J̌anakkā	J̌anak	NOUN	_	Number=Sing	3	obj	_	_
+2	ātun	āt	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	xcomp	_	_
+3	pkušīn.	kuš	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-440
+# text = Man šapīya rayīn.
+# text_en = Tonight I will go.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	šapīya	šapī	ADV	_	_	3	advmod	_	_
+3	rayīn.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-91
+# text = Mnā bi bādšā-ā baxšāt.
+# text_en = He gave me to the king.
+1	Mnā	Mnā	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+2	bi	bi	ADP	_	ExtPos=ADP	3	case	_	_
+3	bādšā-ā	bādšā	NOUN	_	Number=Sing	4	obl	_	_
+4	baxšāt.	baxš	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-346
+# text = Āum sāibi ālēat.
+# text_en = He also had miracle-working powers.
+1	Āum	Ā	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	sāibi	sāibi	ADJ	_	_	3	amod	_	_
+3	ālēat.	āl	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-64
+# text = Uštirē dāšt mārīyēn.
+# text_en = He had a camel, a riding camel.
+1	Uštirē	Uštir	NOUN	_	Number=Sing	2	obj	_	_
+2	dāšt	dāšt	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	_
+3	mārīyēn.	mārī	ADJ	_	_	1	amod	_	_
+
+# sent_id = blc_gps-556
+# text = Yakk naǰǰārē gu.
+# text_en = A carpenter said:.
+1	Yakk	Yakk	DET	_	PronType=Art	2	det	_	_
+2	naǰǰārē	naǰǰār	NOUN	_	Number=Sing	3	nsubj	_	_
+3	gu.	gusag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-468
+# text = Āyirā digarē šamman duzzit.
+# text_en = (but) another one kidnapped her from me.
+1	Āyirā	Ā	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+2	digarē	diga	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	šamman	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+4	duzzit.	duzz	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-222
+# text = Man nūn watī māsay ōnā giptun ša ēšī.
+# text_en = I took my mother’s revenge on him, right now.
+1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	nūn	nūn	ADV	_	_	6	advmod	_	_
+3	watī	watī	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
+4	māsay	mās	NOUN	_	Number=Sing	5	nmod:poss	_	_
+5	ōnā	ōnā	NOUN	_	Number=Sing	6	obj	_	_
+6	giptun	gerag	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ša	ša	ADP	_	ExtPos=ADP	8	case	_	_
+8	ēšī.	ēšī	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+
+# sent_id = blc_gps-326
+# text = Ammā=am raw-an pa šarīat-(t)ā.
+# text_en = As for us, we are going (to the judge) for (arbitration) according to religious law,.
+1	Ammā=am	Ammā	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	raw-an	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pa	pa	ADP	_	ExtPos=ADP	4	case	_	_
+4	šarīat-(t)ā.	šarīat	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = blc_gps-438
+# text = Brawan mašmā..
+# text_en = Let’s go.
+1	Brawan	Bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	mašmā..	ma	PRON	_	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+
+# sent_id = blc_gps-539
+# text = Aga ātay.
+# text_en = If you come.
+1	Aga	Aga	SCONJ	_	_	2	mark	_	_
+2	ātay.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-509
+# text = Bass mūsā xašmī šut pa xudāā.
+# text_en = Immediately Moses went to God in anger.
+1	Bass	Bass	ADV	_	_	4	advmod	_	_
+2	mūsā	mūsā	NOUN	_	Number=Sing	4	nsubj	_	_
+3	xašmī	xašmī	ADV	_	_	4	advmod	_	_
+4	šut	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	pa	pa	ADP	_	ExtPos=ADP	6	case	_	_
+6	xudāā.	xudā	NOUN	_	Number=Sing	4	obl	_	_
+
+# sent_id = blc_gps-111
+# text = Aždiyā diga mas=ē dār-īt.
+# text_en = This dragon has a mother as well.
+1	Aždiyā	Aždiyā	NOUN	_	Number=Sing	4	nsubj	_	_
+2	diga	diga	DET	_	Number=Sing|PronType=Prs	3	det	_	_
+3	mas=ē	mas	NOUN	_	Number=Sing	4	obj	_	_
+4	dār-īt.	dārī	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-451
+# text = Šī.
+# text_en = He says,.
+1	Šī.	Šī	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-187
+# text = Ē mardum čōn kurtant.
+# text_en = What did these people do?
+1	Ē	Ē	DET	_	Number=Plur|PronType=Dem	2	det	_	_
+2	mardum	mardum	NOUN	_	Number=Plur	4	nsubj	_	_
+3	čōn	čōn	ADV	_	_	4	advmod	_	_
+4	kurtant.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-150
+# text = Šumā čōnēn.
+# text_en = Who are you?
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	0	root	_	_
+2	čōnēn.	čōn	ADV	_	_	1	advmod	_	_
+
+# sent_id = blc_gps-286
+# text = Ā zamīndār gu.
+# text_en = That landowner said:.
+1	Ā	Ā	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	zamīndār	zamīndār	NOUN	_	Number=Sing	3	nsubj	_	_
+3	gu.	gusag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-427
+# text = Mardēnzāgēatun.
+# text_en = I would be a man.
+1	Mardēnzāgēatun.	Mardēnzāg	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-549
+# text = Ki pīramard bābā ē čēwant.
+# text_en = (Dear) old man what are these?
+1	Ki	Ki	SCONJ	_	_	5	mark	_	_
+2	pīramard	pīramard	NOUN	_	Number=Sing	5	vocative	_	_
+3	bābā	bābā	NOUN	_	Number=Sing	2	appos	_	_
+4	ē	ē	PRON	_	Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_
+5	čēwant.	čēw	PRON	_	Number=Plur|Person=3|PronType=Int	0	root	_	_
+
+# sent_id = blc_gps-488
+# text = Am mana baxšāyīn.
+# text_en = I will also forgive you,.
+1	Am	Am	ADV	_	_	3	advmod	_	_
+2	mana	man	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	baxšāyīn.	baxš	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-177
+# text = Yag mardumēa rawt.
+# text_en = One person is walking (along).
+1	Yag	Yag	DET	_	PronType=Art	2	det	_	_
+2	mardumēa	mardum	NOUN	_	Number=Sing	3	nsubj	_	_
+3	rawt.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-20
+# text = Šapī ǰattē pa xudā srōz.
+# text_en = By night, he played the fiddle for God.
+1	Šapī	Šap	ADV	_	_	2	advmod	_	_
+2	ǰattē	bǰan	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pa	pa	ADP	_	ExtPos=ADP	4	case	_	_
+4	xudā	xudā	PROPN	_	Number=Sing	2	obl	_	_
+5	srōz.	srōz	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = blc_gps-29
+# text = Amē brāuistānay tā γadīmā sardārēat bi nāmi sardār rāmat khan.
+# text_en = In Brahuistan, there was a sardar who was called Sardar Rahmat Khan.
+1	Amē	Amē	DET	_	PronType=Dem	2	det	_	_
+2	brāuistānay	brāuistān	PROPN	_	Number=Sing	5	obl	_	_
+3	tā	tā	ADP	_	_	2	case	_	_
+4	γadīmā	γadīm	ADJ	_	_	5	amod	_	_
+5	sardārēat	sardār	NOUN	_	Number=Sing	0	root	_	_
+6	bi	bi	ADP	_	ExtPos=ADP	5	case	_	_
+7	nāmi	nām	NOUN	_	Number=Sing	5	nmod	_	_
+8	sardār	sardār	PROPN	_	Number=Sing	7	nmod	_	_
+9	rāmat	rāmat	PROPN	_	Number=Sing	8	flat	_	_
+10	khan.	khan	PROPN	_	Number=Sing	8	flat	_	_
+
+# sent_id = blc_gps-445
+# text = Mnā xudā maga sulaymān kan-t.
+# text_en = Only God can make me Solomon.
+1	Mnā	Mnā	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+2	xudā	xudā	PROPN	_	Number=Sing	5	nsubj	_	_
+3	maga	maga	ADV	_	_	5	advmod	_	_
+4	sulaymān	sulaymān	PROPN	_	Number=Sing	5	obj	_	_
+5	kan-t.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-144
+# text = Pīramardam pazzōr būt.
+# text_en = The old man became strong as well.
+1	Pīramardam	Pīramard	NOUN	_	Number=Sing	3	nsubj	_	_
+2	pazzōr	pazzōr	ADJ	_	_	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-309
+# text = Šut kōā pa pistayay čitinā.
+# text_en = Went to the mountain for picking pistachio.
+1	Šut	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kōā	kō	NOUN	_	Number=Sing	1	obl	_	_
+3	pa	pa	ADP	_	ExtPos=ADP	5	case	_	_
+4	pistayay	pista	NOUN	_	Number=Plur	5	obj	_	_
+5	čitinā.	čit	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+
+# sent_id = blc_gps-554
+# text = Na dēmā man=a war-īn.
+# text_en = No, first I will eat.
+1	Na	Na	INTJ	_	_	4	discourse	_	_
+2	dēmā	dēmā	ADV	_	_	4	advmod	_	_
+3	man=a	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	war-īn.	war	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-270
+# text = Tikka tikkaa kanīn.
+# text_en = I will cut you to pieces.
+1	Tikka	Tikka	NOUN	_	Number=Plur	2	nmod	_	_
+2	tikkaa	tikkaa	NOUN	_	Number=Plur	3	obj	_	_
+3	kanīn.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-114
+# text = Āšixē at.
+# text_en = He was a (person) in love.
+1	Āšixē	Āšix	NOUN	_	Number=Sing	2	nsubj	_	_
+2	at.	é	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-403
+# text = Ō ǰinikkā trā dant.
+# text_en = And give you the girl.
+1	Ō	Ō	SCONJ	_	_	4	mark	_	_
+2	ǰinikkā	ǰinik	NOUN	_	Number=Sing	4	obj	_	_
+3	trā	tā	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+4	dant.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-581
+# text = Nāmay xudānazar xānat.
+# text_en = (whose) name was Khudanizar Khan.
+1	Nāmay	Nām	NOUN	_	Number=Sing	0	root	_	_
+2	xudānazar	xudānazar	PROPN	_	Number=Sing	1	appos	_	_
+3	xānat.	xān	PROPN	_	Number=Sing	2	flat	_	_
+
+# sent_id = blc_gps-574
+# text = Ta pa wat mardē bgir.
+# text_en = You get a husband for yourself.
+1	Ta	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+2	pa	pa	ADP	_	ExtPos=ADP	3	case	_	_
+3	wat	wat	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+4	mardē	mard	NOUN	_	_	5	obj	_	_
+5	bgir.	gerag	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-246
+# text = Šapī marg nayāt.
+# text_en = Death did not come (to him) that night.
+1	Šapī	Šap	ADV	_	_	3	advmod	_	_
+2	marg	marg	NOUN	_	Number=Sing	3	obj	_	_
+3	nayāt.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-313
+# text = Arā bast ǰālagāu.
+# text_en = (he) tied the donkey down the (mountain) and.
+1	Arā	Arā	NOUN	_	Number=Sing	2	obj	_	_
+2	bast	band	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ǰālagāu.	ǰāla	ADV	_	_	2	advmod	_	_
+
+# sent_id = blc_gps-443
+# text = Ā kassērā ki xudā sulaymān kant.
+# text_en = That person whom God makes Solomon,.
+1	Ā	Ā	DET	_	PronType=Dem	2	det	_	_
+2	kassērā	kass	PRON	_	Number=Sing|Person=3|PronType=Ind	6	obj	_	_
+3	ki	ki	SCONJ	_	_	6	mark	_	_
+4	xudā	xudā	PROPN	_	Number=Sing	6	nsubj	_	_
+5	sulaymān	sulaymān	NOUN	_	Number=Sing	6	xcomp	_	_
+6	kant.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-12
+# text = Ē naǰǰār ki āt gō tēγ=u arrag-ān ē aždiyā wayl kurt.
+# text_en = When the carpenter came with blades and saws, the dragon released (the light post).
+1	Ē	Ē	DET	_	PronType=Art	2	det	_	_
+2	naǰǰār	naǰǰār	NOUN	_	Number=Sing	4	nsubj	_	_
+3	ki	ki	SCONJ	_	_	4	mark	_	_
+4	āt	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
+5	gō	gō	ADP	_	ExtPos=ADP	6	case	_	_
+6	tēγ=u	tēγ	NOUN	_	Number=Plur	4	obl	_	_
+7	arrag-ān	arrag	NOUN	_	Number=Plur	6	conj	_	_
+8	ē	ē	DET	_	PronType=Art	9	det	_	_
+9	aždiyā	aždiyā	NOUN	_	Number=Sing	11	nsubj	_	_
+10	wayl	wayl	NOUN	_	Number=Sing	11	obj	_	_
+11	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-497
+# text = Āyi-rāum islāmē kurt.
+# text_en = He made him a muslim.
+1	Āyi-rāum	Āyi-rā	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	islāmē	islām	NOUN	_	Number=Sing	3	obj	_	_
+3	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-400
+# text = Kilī gō ta bayant.
+# text_en = (let) the keys be with you.
+1	Kilī	Kilī	NOUN	_	Number=Plur	4	obj	_	_
+2	gō	gō	ADP	_	ExtPos=ADP	3	case	_	_
+3	ta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+4	bayant.	bóg	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-392
+# text = Dili rām dāšta mabī.
+# text_en = Who has not had a merciful heart,.
+1	Dili	Dil	NOUN	_	Number=Sing	3	obj	_	_
+2	rām	rām	ADJ	_	_	1	amod	_	_
+3	dāšta	dāšt	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	mabī.	mabī	AUX	_	_	3	aux	_	_
+
+# sent_id = blc_gps-24
+# text = Bāndā ē dwārag āt.
+# text_en = The next day, he came again.
+1	Bāndā	Bāndā	ADV	_	_	4	advmod	_	_
+2	ē	ē	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	dwārag	dwārag	ADV	_	_	4	advmod	_	_
+4	āt.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-14
+# text = Bādšā yag rōčē ki āt guštī.
+# text_en = One day when the king came, he (the king) said:.
+1	Bādšā	Bādšā	NOUN	_	Number=Sing	5	nsubj	_	_
+2	yag	yag	DET	_	PronType=Art	3	det	_	_
+3	rōčē	rōčē	NOUN	_	Number=Sing	5	obl	_	_
+4	ki	ki	SCONJ	_	_	5	mark	_	_
+5	āt	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	guštī.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+
+# sent_id = blc_gps-410
+# text = Gadāyē.
+# text_en = (he) is a beggar,.
+1	Gadāyē.	Gadā	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-126
+# text = Pīr ǰangī tōbba ku ša šayru srōzān.
+# text_en = Pir Jangi repented from (reciting) poetry and (playing) the fiddle.
+1	Pīr	Pīr	PROPN	_	Number=Sing	4	nsubj	_	_
+2	ǰangī	ǰangī	PROPN	_	Number=Sing	1	flat	_	_
+3	tōbba	tōbba	NOUN	_	Number=Sing	4	obl	_	_
+4	ku	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ša	ša	ADP	_	ExtPos=ADP	6	case	_	_
+6	šayru	šayr	NOUN	_	Number=Sing	4	obl	_	_
+7	srōzān.	srōz	NOUN	_	Number=Sing	6	conj	_	_
+
+# sent_id = blc_gps-248
+# text = Pārī panč azār mnī laškar=ūt-a.
+# text_en = Last year my army was five thousand (men).
+1	Pārī	Pārī	NOUN	_	Number=Sing	5	obl	_	_
+2	panč	panč	NUM	_	NumType=Card	5	nummod	_	_
+3	azār	azār	NUM	_	NumType=Card	2	flat	_	_
+4	mnī	man	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	_
+5	laškar=ūt-a.	laškar	NOUN	_	Number=Sing	0	root	_	_
+
+# sent_id = blc_gps-219
+# text = Ī ganǰī mnī ǰan būta.
+# text_en = This Ganji was my wife.
+1	Ī	Ī	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	ganǰī	ganǰī	PROPN	_	Number=Sing	5	obl	_	_
+3	mnī	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
+4	ǰan	ǰan	NOUN	_	Number=Sing	5	obj	_	_
+5	būta.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-163
+# text = Srēnā čōṭ kurtat.
+# text_en = He had bent his loins.
+1	Srēnā	Srēnā	NOUN	_	Number=Sing	3	obj	_	_
+2	čōṭ	čōṭ	ADJ	_	_	3	xcomp	_	_
+3	kurtat.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-534
+# text = Šēr gušt.
+# text_en = The lion said.
+1	Šēr	Šēr	NOUN	_	Number=Sing	2	nsubj	_	_
+2	gušt.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-53
+# text = Wāǰa gušīt.
+# text_en = Sir, they say.
+1	Wāǰa	Wāǰa	NOUN	_	Number=Sing	2	vocative	_	_
+2	gušīt.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-88
+# text = Bādšāyay xazānagā ǰatant.
+# text_en = They stole from the king’s treasury.
+1	Bādšāyay	Bādšā	NOUN	_	Number=Sing	2	nmod:poss	_	_
+2	xazānagā	xazāna	NOUN	_	Number=Sing	3	obj	_	_
+3	ǰatant.	bǰan	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-184
+# text = Yakk šērē čōn kurt.
+# text_en = What a certain lion did?
+1	Yakk	Yakk	DET	_	NumType=Card|PronType=Art	2	det	_	_
+2	šērē	šēr	NOUN	_	Number=Sing	4	nsubj	_	_
+3	čōn	čōn	ADV	_	_	4	advmod	_	_
+4	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-54
+# text = Yakk pīramardē dāšt say zāg.
+# text_en = A certain old man had three sons.
+1	Yakk	Yakk	DET	_	NumType=Card|PronType=Art	2	det	_	_
+2	pīramardē	pīramard	NOUN	_	Number=Sing	3	nsubj	_	_
+3	dāšt	dāšt	VERB	_	Aspect=Imp|Mood=Imp|Person=3|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	_
+4	say	say	NUM	_	NumType=Card	5	nmod	_	_
+5	zāg.	zāg	NOUN	_	Number=Plur	3	obj	_	_
+
+# sent_id = blc_gps-155
+# text = Čāpa kurt.
+# text_en = (he) started dancing.
+1	Čāpa	Čāp	NOUN	_	_	2	obj	_	_
+2	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-238
+# text = Ki dār byārīn.
+# text_en = I bring firewood.
+1	Ki	Ki	SCONJ	_	_	3	mark	_	_
+2	dār	dār	NOUN	_	Number=Sing	3	obj	_	_
+3	byārīn.	byār	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-70
+# text = Mana raīn.
+# text_en = I am going.
+1	Mana	man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	raīn.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-40
+# text = Bi taǰǰāray awtāxā ki ništant.
+# text_en = When they sat down in the merchant’s room.
+1	Bi	Bi	ADP	_	ExtPos=ADP	3	case	_	_
+2	taǰǰāray	taǰǰār	NOUN	_	Number=Sing	3	nmod:poss	_	_
+3	awtāxā	awtāx	NOUN	_	Number=Sing	5	obl	_	_
+4	ki	ki	SCONJ	_	_	5	mark	_	_
+5	ništant.	nendag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-586
+# text = Sabzōī piss sabzōā bi sarmāyadārē dāt.
+# text_en = Sabzo’s father gave Sabzo to a rich man.
+1	Sabzōī	Sabzō	PROPN	_	Number=Sing	2	nmod:poss	_	_
+2	piss	piss	NOUN	_	Number=Sing	6	nsubj	_	_
+3	sabzōā	sabzō	PROPN	_	Number=Sing	6	obj	_	_
+4	bi	bi	ADP	_	ExtPos=ADP	5	case	_	_
+5	sarmāyadārē	sarmāyadār	NOUN	_	Number=Sing	6	obl	_	_
+6	dāt.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-191
+# text = Bass čalāpt siyāyēnā.
+# text_en = Just then, it seized the black one.
+1	Bass	Bass	ADV	_	_	2	advmod	_	_
+2	čalāpt	čalāp	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	siyāyēnā.	siyāyēn	NOUN	_	Number=Sing	2	obj	_	_
+
+# sent_id = blc_gps-341
+# text = Sayumīyēn gu.
+# text_en = The third one said,.
+1	Sayumīyēn	Sayumī	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gu.	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-320
+# text = Ī pīramard say tilā sarmāya dāšt.
+# text_en = This old man had three (pieces of) gold (as his) wealth,.
+1	Ī	Ī	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	pīramard	pīramard	NOUN	_	Number=Sing	6	nsubj	_	_
+3	say	say	NUM	_	NumType=Card	4	nummod	_	_
+4	tilā	til	NOUN	_	Number=Plur	5	compound	_	_
+5	sarmāya	sarmāya	NOUN	_	Number=Sing	6	obj	_	_
+6	dāšt.	dāšt	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-310
+# text = Arā swār būtu.
+# text_en = He mounted on the donkey and.
+1	Arā	Arā	NOUN	_	Number=Sing	3	obj	_	_
+2	swār	swār	ADJ	_	_	3	xcomp	_	_
+3	būtu.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-317
+# text = Gwālagā purrē kurtu.
+# text_en = (he) filled the sack (with pistachio) and.
+1	Gwālagā	Gwāla	NOUN	_	Number=Sing	3	obj	_	_
+2	purrē	purr	ADJ	_	_	3	xcomp	_	_
+3	kurtu.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-27
+# text = Pōšī dwārag āt.
+# text_en = The next day, he came again.
+1	Pōšī	Pōšī	ADV	_	_	3	advmod	_	_
+2	dwārag	dwārag	ADV	_	_	3	advmod	_	_
+3	āt.	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-464
+# text = Man brayīnu.
+# text_en = I go and.
+1	Man	man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	brayīnu.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-77
+# text = Āta idā.
+# text_en = It has come here.
+1	Āta	bia	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	idā.	idā	ADV	_	_	1	advmod	_	_
+
+# sent_id = blc_gps-142
+# text = Tabīattay xarāb būt.
+# text_en = He lost his temper.
+1	Tabīattay	Tabīat	NOUN	_	Number=Sing	3	obj	_	_
+2	xarāb	xarāb	ADJ	_	_	3	xcomp	_	_
+3	būt.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-210
+# text = Āǰizag āt bi bādšāayā.
+# text_en = The woman came to the king.
+1	Āǰizag	Āǰizag	NOUN	_	Number=Sing	2	nsubj	_	_
+2	āt	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	bi	bi	ADP	_	ExtPos=ADP	4	case	_	_
+4	bādšāayā.	bādšā	NOUN	_	Number=Sing	2	obl	_	_
+
+# sent_id = blc_gps-171
+# text = Ki say gōkatant.
+# text_en = There were three cows.
+1	Ki	Ki	SCONJ	_	_	3	mark	_	_
+2	say	say	NUM	_	NumType=Card	3	nummod	_	_
+3	gōkatant.	gōkatant	NOUN	_	Number=Plur	0	root	_	_
+
+# sent_id = blc_gps-3
+# text = Ta annūn zapakī būtay.
+# text_en = (that) You have become exhausted now.
+1	Ta	Ta	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	annūn	annūn	ADV	_	_	4	advmod	_	_
+3	zapakī	zapak	ADJ	_	_	4	xcomp	_	_
+4	būtay.	bóg	VERB	_	Aspect=Imp|Mood=Ind|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-263
+# text = Ki ptrakkīt .
+# text_en = To burst.
+1	Ki	ki	SCONJ	_	_	2	mark	_	_
+2	ptrakkīt	trak	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = blc_gps-532
+# text = Ki yāra šumā ē rang-ēn rapēγ=it.
+# text_en = Oh fellows, you are such (good) friends.
+1	Ki	ki	SCONJ	_	_	6	mark	_	_
+2	yāra	yār	NOUN	_	Number=Plur	6	vocative	_	_
+3	šumā	šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+4	ē	ē	DET	_	PronType=Dem	6	det	_	_
+5	rang-ēn	rang	ADP	_	ExtPos=ADP	6	case	_	_
+6	rapēγ=it.	rapēγ	NOUN	_	Number=Plur	0	root	_	_
+
+# sent_id = blc_gps-330
+# text = Ammay rōzī-(y)ā=u xudā dant.
+# text_en = God will certainly give our daily bread,.
+1	Ammay	Ammay	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	_
+2	rōzī-(y)ā=u	rōzī	NOUN	_	Number=Plur	4	obj	_	_
+3	xudā	xudā	PROPN	_	Number=Sing	4	nsubj	_	_
+4	dant.	deig	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-157
+# text = Aḍḍa naku.
+# text_en = She was impatient (she couldn’t stay).
+1	Aḍḍa	Aḍḍ	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
+2	naku.	naku	AUX	_	_	1	aux	_	_
+
+# sent_id = blc_gps-78
+# text = Bi bādšā arz kurta.
+# text_en = (and) it has informed the king.
+1	Bi	Bi	ADP	_	ExtPos=ADP	2	case	_	_
+2	bādšā	bādšā	NOUN	_	Number=Sing	4	obl	_	_
+3	arz	arz	NOUN	_	Number=Sing	4	obj	_	_
+4	kurta.	ka	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-181
+# text = Šumā gōš kaššit.
+# text_en = You listen!
+1	Šumā	Šumā	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	gōš	gōš	NOUN	_	Number=Sing	3	obj	_	_
+3	kaššit.	kaš	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-140
+# text = Pīramard šurū ku wārtinā.
+# text_en = The old man began to eat.
+1	Pīramard	Pīramard	NOUN	_	Number=Sing	2	nsubj	_	_
+2	šurū	šurū	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ku	ka	AUX	_	_	2	aux	_	_
+4	wārtinā.	wār	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+
+# sent_id = blc_gps-214
+# text = Purrē kurt.
+# text_en = He filled it.
+1	Purrē	Purr	ADJ	_	_	2	xcomp	_	_
+2	kurt.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-416
+# text = Suxančīn-īa kant.
+# text_en = He gossips.
+1	Suxančīn-īa	Suxančīn	NOUN	_	Number=Sing	2	obj	_	_
+2	kant.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-418
+# text = Ki mnā kāu kadīm bdayit.
+# text_en = To give me straw and barley.
+1	Ki	Ki	SCONJ	_	_	5	mark	_	_
+2	mnā	man	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+3	kāu	kāu	NOUN	_	Number=Plur	5	obj	_	_
+4	kadīm	kadīm	NOUN	_	Number=Plur	3	conj	_	_
+5	bdayit.	deig	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = blc_gps-73
+# text = Činka bēγam āt pa nānay wārtinā?
+# text_en = How many (people) came without sorrow to have food?
+1	Činka	Činka	ADV	_	_	3	advmod	_	_
+2	bēγam	bēγam	NOUN	_	Number=Plur	3	nsubj	_	_
+3	āt	bia	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	pa	pa	SCONJ	_	_	6	mark	_	_
+5	nānay	nān	NOUN	_	Number=Plur	6	obj	_	_
+6	wārtinā?	wār	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+
+# sent_id = blc_gps-566
+# text = Bādšā gōnint gō mašmā.
+# text_en = The king is with us.
+1	Bādšā	Bādšā	NOUN	_	Number=Sing	2	nsubj	_	_
+2	gōnint	gōn	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	gō	gō	ADP	_	ExtPos=ADP	2	case	_	_
+4	mašmā.	mašmā	PRON	_	Number=Plur|Person=1|PronType=Prs	2	obl	_	_
+
+# sent_id = blc_gps-63
+# text = Amē ē amrāay guštant spērīš.
+# text_en = His companions, the elders, said:.
+1	Amē	Amē	DET	_	PronType=Dem	3	det	_	_
+2	ē	ē	DET	_	PronType=Art	1	flat	_	_
+3	amrāay	amrā	NOUN	_	Number=Sing	4	nsubj	_	_
+4	guštant	gušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	spērīš.	pēr	NOUN	_	_	4	obl	_	_
+
