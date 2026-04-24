@@ -42,7 +42,7 @@
 2	ǰinēn	ǰinēn	NOUN	_	Number=Sing	4	nsubj	_	_
 3	gōnē	gōn	ADP	_	ExtPos=ADP	4	case	_	_
 4	mašutēn	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	ki	ki	AUX	_	_	6	aux	_	_
+5	ki	ki	CCONJ	_	_	6	cc	_	_
 6	našut.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 
 # sent_id = blc_gps-563
@@ -67,7 +67,7 @@
 # text = Gwaragē ki kušt nānay waxt būt.
 # text_en = When he slaughtered a lamb, it was mealtime.
 1	Gwaragē	Gwarag	NOUN	_	Number=Sing	3	obj	_	_
-2	ki	ki	AUX	_	_	3	aux	_	_
+2	ki	ki	SCONJ	_	_	3	mark	_	_
 3	kušt	kušag	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	nānay	nān	NOUN	_	Number=Sing	5	compound	_	_
 5	waxt	waxt	NOUN	_	Number=Sing	6	nsubj	_	_
@@ -106,7 +106,7 @@
 # text = Āt ki prēnīt.
 # text_en = He was going to throw (it).
 1	Āt	Āt	PRON	_	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	ki	ki	AUX	_	_	3	aux	_	_
+2	ki	ki	SCONJ	_	_	3	mark	_	_
 3	prēnīt.	prēn	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = blc_gps-245
@@ -114,7 +114,7 @@
 # text_en = For sure I will die tonight.
 1	Man	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	šapī	šap	ADV	_	_	4	advmod	_	_
-3	ki	ki	AUX	_	_	4	aux	_	_
+3	ki	ki	SCONJ	_	_	4	mark	_	_
 4	mirīn.	marag	VERB	_	Aspect=Imp|Mood=Ind|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = blc_gps-318

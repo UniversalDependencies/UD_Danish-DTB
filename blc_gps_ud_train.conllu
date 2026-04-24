@@ -559,10 +559,10 @@
 # text = Mnī ǰinikk ā rang naint.
 # text_en = (Marrying) my daughter is not (possible) so easy.
 1	Mnī	Man	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
-2	ǰinikk	ǰinikk	NOUN	_	Number=Sing	4	nsubj	_	_
-3	ā	ā	DET	_	Number=Sing|PronType=Dem	4	obl	_	_
-4	rang	rang	ADP	_	ExtPos=ADP	0	root	_	_
-5	naint.	int	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+2	ǰinikk	ǰinikk	NOUN	_	Number=Sing	5	nsubj	_	_
+3	ā	ā	PRON	_	Number=Sing|Person=3|PronType=Dem	5	obl	_	_
+4	rang	rang	ADP	_	ExtPos=ADP	5	case	_	_
+5	naint.	int	AUX	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = blc_gps-562
 # text = Amingu dūrint.
@@ -728,7 +728,7 @@
 1	Šaš	Šaš	NUM	_	NumType=Card	0	root	_	_
 2	ē	ē	DET	_	PronType=Art	4	det	_	_
 3	diga	diga	ADJ	_	_	4	amod	_	_
-4	rōčēnā.	rōč	NOUN	_	_	1	nmod:tmod	_	_
+4	rōčēnā.	rōč	NOUN	_	_	1	nmod	_	_
 
 # sent_id = blc_gps-492
 # text = Ki taǰǰār būt.
@@ -892,7 +892,7 @@
 # sent_id = blc_gps-148
 # text = J̌istant.
 # text_en = They ran away.
-1	J̌istant.	J̌ist	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	J̌istant.	J̌ist	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = blc_gps-108
 # text = Byā mnā ta bgir.
@@ -900,7 +900,7 @@
 1	Byā	Byā	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
 2	mnā	man	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
 3	ta	ta	PRON	_	Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-4	bgir.	gerag	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	bgir.	gerag	VERB	_	Aspect=Imp|Mood=Imp|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 
 # sent_id = blc_gps-87
 # text = Man āyirā warīn.
@@ -1467,7 +1467,7 @@
 1	Dili	Dil	NOUN	_	Number=Sing	3	obj	_	_
 2	rām	rām	ADJ	_	_	1	amod	_	_
 3	dāšta	dāšt	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	mabī.	mabī	AUX	_	_	3	aux	_	_
+4	mabī.	bī	AUX	_	_	3	xcomp	_	_
 
 # sent_id = blc_gps-24
 # text = Bāndā ē dwārag āt.
@@ -1717,7 +1717,7 @@
 # text = Aḍḍa naku.
 # text_en = She was impatient (she couldn’t stay).
 1	Aḍḍa	Aḍḍ	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
-2	naku.	naku	AUX	_	_	1	aux	_	_
+2	naku.	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 
 # sent_id = blc_gps-78
 # text = Bi bādšā arz kurta.
@@ -1739,7 +1739,7 @@
 # text_en = The old man began to eat.
 1	Pīramard	Pīramard	NOUN	_	Number=Sing	2	nsubj	_	_
 2	šurū	šurū	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ku	ka	AUX	_	_	2	aux	_	_
+3	ku	ka	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	xcomp	_	_
 4	wārtinā.	wār	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
 
 # sent_id = blc_gps-214

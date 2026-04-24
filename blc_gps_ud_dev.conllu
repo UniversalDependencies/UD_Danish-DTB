@@ -71,7 +71,7 @@
 # text_en = That there was no place (for more food) in his belly.
 1	Ki	Ki	SCONJ	_	_	3	mark	_	_
 2	lāpay	lāp	NOUN	_	Number=Sing	3	obl	_	_
-3	nasāti.	nasāt	AUX	_	_	0	root	_	_
+3	nasāti.	bra	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = blc_gps-19
 # text = Yag zamānē bū kibr ku.
